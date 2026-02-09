@@ -1,0 +1,4 @@
+"Testing Service Role Access to Profiles..."
+"SUCCESS: Accessed profiles. Data:" [{"count":5}]
+"Testing Join Staff -> Profiles..."
+"SUCCESS: Join worked."
